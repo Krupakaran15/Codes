@@ -1,0 +1,11 @@
+	Sudo apt-get update -y      for updating the OS
+	Clear - to clear the screen
+	History - to see the history of cmds used
+	Sudo apt-get install nginx -y - to install Nginx web server
+	Sudo systemctl status nginx.service - to check the status of web server
+	Sudo systemctl start nginx.service - to start the web server
+	
+	cd /var/www/html - check for the htmp file to update it
+	After hitting enter - type "ls"
+	
+Sudo nano index.nginx-debian.html - 

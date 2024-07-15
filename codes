@@ -5,7 +5,7 @@
 	Sudo systemctl status nginx.service - to check the status of web server
 	Sudo systemctl start nginx.service - to start the web server
 	
-	cd /var/www/html - check for the htmp file to update it
+	cd /var/www/html - check for the html file to update it
 	After hitting enter - type "ls"
 	
 Sudo nano index.nginx-debian.html - 
